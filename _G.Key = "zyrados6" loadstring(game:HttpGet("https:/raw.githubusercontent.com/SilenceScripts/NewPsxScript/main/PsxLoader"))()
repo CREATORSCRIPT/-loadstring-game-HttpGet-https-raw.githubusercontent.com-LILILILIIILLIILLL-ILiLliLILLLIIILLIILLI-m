@@ -1,0 +1,2 @@
+_G.Key = "zyrados6"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/NewPsxScript/main/PsxLoader%22))()
